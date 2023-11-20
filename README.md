@@ -1,8 +1,12 @@
 # pokemon_js
 The features of HTML, CSS and Javascript were used in this project
+
 Dynamic pokemon cards have been created.
+
 All the features of pokemon have been added to the card.
+
 The card background has been dynamically changed according to the characteristics of the Pokemon.
+
 Search is performed by using the search button according to the pokemon name. Decryption is performed by using the Decryption button.
 
  # pokemongift
